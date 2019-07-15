@@ -7,11 +7,11 @@ def using_unshift(array, element)
 end 
 
 def using_pop(array)
-  array.pop
+  narray = array.pop
 end 
 
 def using_pop(array)
-  array.pop(2)
+  narray = array.pop(2)
 end 
 
 def using_concat(array1, array2)
